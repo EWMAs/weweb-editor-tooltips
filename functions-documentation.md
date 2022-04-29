@@ -51,7 +51,7 @@ Return the number of items in `array`<br/><br/>
 
 ### slice
 
-Trucate `array` from `startIndex` to the end or to `endIndex` if provided<br/><br/>
+Truncate `array` from `startIndex` to the end or to `endIndex` if provided<br/><br/>
 `slice(array, startIndex, [endIndex])`
 
 ### merge
